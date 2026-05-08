@@ -82,7 +82,7 @@ ml_service/
 Clone the repository and move to the project directory:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/razzouka/ml_service_project>
 cd ml_service
 ```
 
